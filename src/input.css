@@ -1,0 +1,10 @@
+@tailwind base;
+
+*{
+    scrollbar-width: thin;
+    scrollbar-color: rgb(46, 213, 46);
+
+}
+
+@tailwind components;
+@tailwind utilities;
